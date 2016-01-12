@@ -1,0 +1,18 @@
+2016/01/13 00:50:05 [error] [application] action: Index
+in /home/seb/web/yii-test-runactions/app/protected/controllers/TestController.php (23)
+in /home/seb/web/yii-test-runactions/app/index.php (13)
+2016/01/13 00:50:19 [error] [application] action: SendMail
+in /home/seb/web/yii-test-runactions/app/protected/controllers/TestController.php (31)
+in /home/seb/web/yii-test-runactions/app/index.php (13)
+2016/01/13 00:50:19 [error] [application] action: TimeConsumingProcess
+in /home/seb/web/yii-test-runactions/app/protected/controllers/TestController.php (10)
+in /home/seb/web/yii-test-runactions/app/index.php (13)
+2016/01/13 00:51:48 [error] [application] action: Index
+in /home/seb/web/yii-test-runactions/app/protected/controllers/TestController.php (14)
+in /home/seb/web/yii-test-runactions/app/index.php (13)
+2016/01/13 00:51:51 [error] [application] action: TimeConsumingProcess
+in /home/seb/web/yii-test-runactions/app/protected/controllers/TestController.php (22)
+in /home/seb/web/yii-test-runactions/app/index.php (13)
+2016/01/13 00:51:51 [error] [application] action: SendMail
+in /home/seb/web/yii-test-runactions/app/protected/controllers/TestController.php (31)
+in /home/seb/web/yii-test-runactions/app/index.php (13)
